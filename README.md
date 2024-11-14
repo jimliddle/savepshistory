@@ -28,7 +28,7 @@ function Save-PSHistory {
     }
 }
 
-</code>
+<code/>
 
 Re-initialize the profile:
 
