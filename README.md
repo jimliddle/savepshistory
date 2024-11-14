@@ -11,7 +11,7 @@ edit this file ie. notepad <profile>
 
 Add this function to the profile file and save:
 
-<code>
+```
 function Save-PSHistory {
     param (
         [Parameter(Mandatory=$true)]
@@ -28,7 +28,7 @@ function Save-PSHistory {
     }
 }
 
-<code/>
+```
 
 Re-initialize the profile:
 
