@@ -36,7 +36,7 @@ Re-initialize the profile:
 . $PROFILE
 ```
 
-and to save the the historyou can simpply enter:
+and to save the the historyou can simply enter:
 
 ```
 Save-PSHistory <filename and/or directory path>
