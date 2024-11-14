@@ -32,10 +32,13 @@ function Save-PSHistory {
 
 Re-initialize the profile:
 
+```
 . $PROFILE
+```
 
 and to save the the historyou can simpply enter:
 
+```
 Save-PSHistory <filename and/or directory path>
-
+```
 
